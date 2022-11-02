@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+<!--&lt;!&ndash;    Student Registration  Form View&ndash;&gt;-->
+<!--    <record id='studnt_registatration ' model='ir.ui.view'>-->
+<!--        <field name="name">fleet.vehicle.form</field>-->
+<!--        <field name="model">fleet.vehicle</field>-->
+<!--        <field name="arch" type="xml">-->
+<!--&lt;!&ndash;            # Define your from home view in here&ndash;&gt;-->
+<!--        </field>-->
+<!--    </record>-->
+
+
+
+
+</odoo>
